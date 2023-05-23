@@ -1,9 +1,9 @@
 <template>
-<ExampleSelective />
+<ExampleFor />
 </template>
 
 <script lang="ts" setup>
-import ExampleSelective from './components/ExampleSelective.vue';
+import ExampleFor from './components/ExampleFor.vue';
 
 </script>
 
