@@ -1,9 +1,9 @@
 <template>
-<ModelForm />
+<EjercicioComputado />
 </template>
 
 <script lang="ts" setup>
-import ModelForm from './components/ModelForm.vue';
+import EjercicioComputado from './components/EjercicioComputado.vue';
 
 </script>
 
