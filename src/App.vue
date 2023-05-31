@@ -1,9 +1,9 @@
 <template>
-<CompositionAPI />
+<ExampleSelective />
 </template>
 
 <script lang="ts" setup>
-import CompositionAPI from './components/CompositionAPI.vue';
+import ExampleSelective from './components/ExampleSelective.vue';
 
 </script>
 
