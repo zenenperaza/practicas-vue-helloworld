@@ -1,19 +1,12 @@
 <template>
-<EjercicioComputado />
+<CompositionAPI />
 </template>
 
 <script lang="ts" setup>
-import EjercicioComputado from './components/EjercicioComputado.vue';
+import CompositionAPI from './components/CompositionAPI.vue';
 
 </script>
 
 <style>
-h1 {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
