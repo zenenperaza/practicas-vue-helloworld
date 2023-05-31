@@ -1,6 +1,6 @@
 <template>
    <ul>
-    <li v-for="country in countries" :key="country.code">{{ country.name }}</li>
+    <li v-for="country in countries" v-bind:key="country.code">{{ country.name }}</li>
    </ul>
 </template>
     
@@ -34,6 +34,6 @@
         ])
     </script>
     
-    <style scop>
+    <style scoped>
     
     </style>
